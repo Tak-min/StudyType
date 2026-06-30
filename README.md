@@ -2,6 +2,17 @@
 
 明石高専の C科 / M科 / E科 / A科 の雰囲気を、MBTI風に楽しく診断するReactアプリです。
 
+## スクリーンショット
+
+### トップ画面
+![トップ画面](screenshots/01-landing.png)
+
+### 質問画面
+![質問画面](screenshots/02-question.png)
+
+### 結果画面
+![結果画面](screenshots/03-result.png)
+
 ## 起動
 
 ```bash
